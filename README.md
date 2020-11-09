@@ -1,3 +1,5 @@
 ＃github.io
-## This website is test webiste.
-<p>This link of website is https://nezuu2.github.io/github.io/</p>
+## このサイトはテストでつくったサイトです
+<p>コレと言って特に面白い要素はないかもしれません。<br>
+でもそれでも見てくださる方にはありがとう。</p>
+<p>このサイトのリンクはこちらです： https://nezuu2.github.io/github.io/</p>
